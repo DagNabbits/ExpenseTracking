@@ -26,7 +26,7 @@
       }
     };
 
-    // this function is called by Cordova when the application is loaded by the device
+    // this function is called by Cordova when the application is loaded by the devicejjj
     document.addEventListener('deviceready', function () {  
       
       // hide the splash screen as soon as the app is ready. otherwise
